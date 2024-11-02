@@ -4,19 +4,19 @@
     "url": "$ISIP_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isip",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 5783,
-    "timeDay": 5883,
-    "timeWeek": 5783,
-    "timeMonth": 5783,
-    "timeYear": 5783,
+    "status": "up",
+    "uptime": "97.26%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "97.26%",
+    "time": 4938,
+    "timeDay": 3721,
+    "timeWeek": 4938,
+    "timeMonth": 4938,
+    "timeYear": 4938,
     "dailyMinutesDown": {
-      "2024-11-02": 1
+      "2024-11-02": 76
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$ISIP_DEV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isip-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3746,
-    "timeDay": 5953,
-    "timeWeek": 3746,
-    "timeMonth": 3746,
-    "timeYear": 3746,
+    "status": "up",
+    "uptime": "97.29%",
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.29%",
+    "time": 4360,
+    "timeDay": 6386,
+    "timeWeek": 4360,
+    "timeMonth": 4360,
+    "timeYear": 4360,
     "dailyMinutesDown": {
-      "2024-11-02": 0
+      "2024-11-02": 75
     }
   },
   {

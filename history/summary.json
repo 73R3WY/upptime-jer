@@ -4,25 +4,27 @@
     "url": "$ISIP_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isip",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 5783,
     "timeDay": 5883,
     "timeWeek": 5783,
     "timeMonth": 5783,
     "timeYear": 5783,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-02": 1
+    }
   },
   {
     "name": "ISIP-Dev",
     "url": "$ISIP_DEV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isip-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 3746,
     "timeMonth": 3746,
     "timeYear": 3746,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-02": 0
+    }
   },
   {
     "name": "Personal Site",

@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isip",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "96.43%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "98.10%",
-    "uptimeYear": "97.91%",
+    "uptimeYear": "97.92%",
     "time": 2469,
     "timeDay": 3057,
     "timeWeek": 2431,
@@ -81,7 +81,7 @@
     "url": "$PERSONAL_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -93,6 +93,7 @@
     "timeMonth": 444,
     "timeYear": 443,
     "dailyMinutesDown": {
+      "2025-01-23": 0,
       "2024-12-16": 53
     }
   }

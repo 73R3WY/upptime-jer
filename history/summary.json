@@ -8,12 +8,12 @@
     "uptime": "97.53%",
     "uptimeDay": "98.69%",
     "uptimeWeek": "97.92%",
-    "uptimeMonth": "96.37%",
+    "uptimeMonth": "96.43%",
     "uptimeYear": "97.53%",
     "time": 2424,
     "timeDay": 2097,
     "timeWeek": 2457,
-    "timeMonth": 2371,
+    "timeMonth": 2294,
     "timeYear": 2424,
     "dailyMinutesDown": {
       "2025-02-22": 19,
@@ -96,7 +96,7 @@
     "url": "$PERSONAL_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -108,6 +108,7 @@
     "timeMonth": 473,
     "timeYear": 451,
     "dailyMinutesDown": {
+      "2025-02-22": 0,
       "2025-01-23": 62,
       "2024-12-16": 53
     }

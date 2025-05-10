@@ -124,9 +124,9 @@
     "slug": "personal-site",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 443,
     "timeDay": 524,
@@ -134,7 +134,6 @@
     "timeMonth": 442,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2025-05-09": 5,
       "2025-01-23": 62,
       "2024-12-16": 53
     }

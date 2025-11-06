@@ -1,7 +1,7 @@
 url: $PERSONAL_SITE
-status: down
-code: 502
-responseTime: 794
-lastUpdated: 2025-11-06T05:33:22.801Z
+status: up
+code: 200
+responseTime: 3918
+lastUpdated: 2025-11-06T05:45:51.994Z
 startTime: 2024-10-31T14:35:12.679Z
 generator: Upptime <https://github.com/upptime/upptime>

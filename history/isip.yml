@@ -1,7 +1,7 @@
 url: $ISIP_PROD
-status: down
-code: 522
-responseTime: 19740
-lastUpdated: 2026-07-02T01:53:33.747Z
+status: up
+code: 200
+responseTime: 1313
+lastUpdated: 2026-07-02T05:49:57.364Z
 startTime: 2024-10-31T14:35:04.241Z
 generator: Upptime <https://github.com/upptime/upptime>
